@@ -1,4 +1,4 @@
-# course_remainder
+# hive
 
 A new Flutter project.
 
